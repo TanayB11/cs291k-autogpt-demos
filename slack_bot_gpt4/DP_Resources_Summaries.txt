@@ -1,0 +1,11 @@
+1. 'Deep Learning with Differential Privacy': This paper explains how to train deep neural networks with non-convex objectives under a modest privacy budget, using new algorithmic techniques for learning and a refined analysis of privacy costs within the framework of differential privacy.
+
+2. 'The Algorithmic Foundations of Differential Privacy': This paper provides a comprehensive introduction to the problems and techniques of differential privacy, including fundamental techniques for achieving differential privacy and applications of these techniques in creative combinations.
+
+3. 'How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy': This paper provides a practical guide to machine learning with differential privacy, focusing on modern ML models that have become more complex, deeper, and harder to reason about.
+
+4. 'Assessing differentially private deep learning with Membership Inference': This paper compares local and central differential privacy mechanisms under white- and black-box membership inference to evaluate their relative privacy-accuracy trade-offs.
+
+5. 'Gradient Leakage Attack Resilient Deep Learning': This paper investigates alternative approaches to gradient leakage resilient deep learning with differential privacy, analyzing existing implementations of deep learning with differential privacy that use fixed noise variance and presenting a new approach that uses dynamic privacy parameters.
+
+6. 'Vision Through the Veil: Differential Privacy in Federated Learning for Medical Image Classification': This paper integrates differential privacy into a federated learning framework for medical image classification, addressing the need for privacy-preserving mechanisms in medical image analysis.
